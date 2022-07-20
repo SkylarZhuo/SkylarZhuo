@@ -41,4 +41,6 @@ Hello, my name is Zhuohang Li and I am a master's student at [Northeastern Unive
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkylarZhuo&layout=compact)](https://github.com/SkylarZhuo/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkylarZhuo&layout=compact)](https://github.com/SkylarZhuo/github-readme-stats) -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SkylarZhuo&show_icons=true&theme=dark)
