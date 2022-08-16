@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello, my name is Zhuohang Li and I am a master's student at [Northeastern University](https://vancouver.northeastern.edu/) majoring in Computer Science. I am a fighting full-stack software developer. My technology stack involves Java/Python, MySQL, javascript, HTML/CSS/Bootstrap, REACT, MongoDB and Node.js. Besides programming, I love music and movies. I love playing volleyball, swimming and cycling.
+Hello, my name is Zhuohang Li and I am a master's student at [Northeastern University](https://vancouver.northeastern.edu/) majoring in Computer Science. I am a growing full-stack software developer. My technology stack involves Java/Python, MySQL, javascript, HTML/CSS/Bootstrap, REACT, MongoDB and Node.js. Besides programming, I love music and movies. I love playing volleyball, swimming and cycling.
 
 - 🔭 I’m currently a master student majored in Computer Science at Northeastern University.
 - 🌱 I’m currently looking for co-op and internship opportunities in 2023Spring and 2023Summer.
